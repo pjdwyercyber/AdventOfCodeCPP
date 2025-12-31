@@ -4,3 +4,6 @@
 #Ignore builds
 cmake-build-debug/
 cmake-build-release/
+
+#Ignore input files per Advent of Code rules
+*input*.txt
