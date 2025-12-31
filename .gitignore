@@ -1,0 +1,6 @@
+#Ignore CLion ide settings
+.idea/
+
+#Ignore builds
+cmake-build-debug/
+cmake-build-release/
